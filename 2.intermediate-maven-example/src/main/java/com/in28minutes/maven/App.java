@@ -6,12 +6,12 @@ package com.in28minutes.maven;
  */
 public class App 
 {
-	private App() {
+	App() {
 	    throw new IllegalStateException("Utility class");
 	  }
 
 
-	public static int calculateSomething() {
+	public int calculateSomething() {
 		return 1;
 	}
 }
