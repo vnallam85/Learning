@@ -10,7 +10,7 @@
 
 	<packaging>jar</packaging>
 
-	<name>maven-example-1</name>
+	<name>maven-example-0</name>
 	<url>http://www.in28minutes.com</url>
 
 	<dependencies>
