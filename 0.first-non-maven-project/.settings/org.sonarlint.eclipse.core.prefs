@@ -2,6 +2,3 @@ autoEnabled=true
 eclipse.preferences.version=1
 extraProperties=
 fileExclusions=
-moduleKey=com.in28minutes.maven\:basic-maven-example
-projectKey=com.in28minutes.maven\:basic-maven-example
-serverId=localhost
